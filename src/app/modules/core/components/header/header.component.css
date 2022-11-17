@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 3rem;
+}
+
+.background {
+  background-color: #005b30;
+}
+
+.menu-list {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  max-width: 800px;
+}
+
+.menu-item {
+  font-size: 1.8rem;
+  font-family: "Saira", sans-serif;
+  cursor: pointer;
+}
+
+.logo {
+  cursor: pointer;
+}
